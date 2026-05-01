@@ -62,19 +62,20 @@ Created an animated jet that:
 ## Screenshots
 
 ### Full Assignment View
-![Full Assignment](screenshots/full_assignment.png)
+![Full Assignment](screenshots/full_assignment.JPG)
 
-### Task A – House, Trees, Road, Sun
-![Task A Scene](screenshots/task_a_scene.png)
+### Task A - Scene
+![Task A Scene](screenshots/task_a_scene.JPG)
 
-### Task B – Cartoon Character
-![Task B Cartoon](screenshots/task_b_cartoon.png)
+### Task B - Cartoon Character
+![Task B Cartoon](screenshots/task_b_cartoon.JPG)
 
-### Task D – Business Card
-![Task D Business Card](screenshots/task_d_card.png)
+### Task D - Business Card
+![Task D Business Card](screenshots/task_d_card.JPG)
 
-### Task F – Animated Jet
-![Task F Jet](screenshots/task_f_jet.png)
+### Task F - Animated Jet
+![Task F Jet](screenshots/task_f_jet.JPG)
+
 
 ---
 
