@@ -76,6 +76,9 @@ Created an animated jet that:
 ### Task F - Animated Jet
 ![Task F Jet](screenshots/task_f_jet.JPG)
 
+### Sample Code - Sample code in Code::Blocks
+![Code_Sample](screenshots/code_sample.JPG).JPG)
+
 
 ---
 
