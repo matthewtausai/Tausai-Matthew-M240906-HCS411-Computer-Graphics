@@ -33,7 +33,7 @@ Created a professional business card with:
 - Student ID: M240906
 - Course: Computer Science
 - University: Great Zimbabwe University
-- Email: tausai@greatzim.ac.zw
+- Email: matthewtausaimakopa21@gmail.com
 
 ### Task F – Animated Jet
 Created an animated jet that:
