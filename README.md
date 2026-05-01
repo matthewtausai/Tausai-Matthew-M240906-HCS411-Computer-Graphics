@@ -79,4 +79,7 @@ Created an animated jet that:
 
 ---
 
-## GitHub Repository Structure
+## Declaration
+I hereby declare that this assignment is my own original work. All code and content submitted is my own, except where properly referenced.
+
+**SIGNATURE:** TAUSAI MATTHEW [M240906]
